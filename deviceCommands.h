@@ -1,10 +1,4 @@
-//
-//  deviceCommands.h
-//  command_pattern
-//
-//  Created by William McCarthy on 11/14/17.
-//  Copyright © 2017 William McCarthy. All rights reserved.
-//
+
 
 #ifndef deviceCommands_h
 #define deviceCommands_h
