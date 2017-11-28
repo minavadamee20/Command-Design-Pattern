@@ -1,10 +1,3 @@
-//
-//  ceilingFan.h
-//  command_pattern
-//
-//  Created by William McCarthy on 11/12/17.
-//  Copyright © 2017 William McCarthy. All rights reserved.
-//
 
 #ifndef ceilingFan_h
 #define ceilingFan_h
